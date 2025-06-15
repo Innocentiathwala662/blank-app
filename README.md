@@ -1,4 +1,4 @@
-# 🎈 PROJECT
+# 🎈 PROJECT UNSUPERVISED
 
 A simple Streamlit app template for you to modify!
 
